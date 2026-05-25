@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that answers questions about the Bitcoin and Ethereum whitepapers using LangChain, Pinecone, and OpenAI. v2 adds a Gradio chat interface for interactive querying without writing any code.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patriciarrs/Rag-finalproject/blob/main/RAG_FinalProject.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patriciarrs/Rag-finalproject/blob/main/v2/RAG_FinalProject.ipynb)
 
 ---
 

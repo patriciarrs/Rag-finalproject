@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that answers questions about the Bitcoin and Ethereum whitepapers using LangChain, Pinecone, and OpenAI.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patriciarrs/Rag-finalproject/blob/main/RAG_FinalProject.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patriciarrs/Rag-finalproject/blob/main/v1/RAG_FinalProject.ipynb)
 
 ---
 
